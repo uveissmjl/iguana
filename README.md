@@ -54,9 +54,9 @@ Iguana is an open-source, Python-based network analysis suite designed for cyber
 - **Port Scanning**: Identify open ports on devices and assess network security.
 - **Network Sniffing**: Capture and analyze network traffic.
 - **DNS Gathering**: Retrieve DNS records associated with a domain.
-
-## Installation
 ```
+## Installation
+
 1. Clone the repository:
    ```bash
    git clone https://github.com/uveissmjl/Iguana.git
