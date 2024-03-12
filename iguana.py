@@ -26,18 +26,19 @@ iguana_art = """
 # Function to display help message
 def help_message():
     print("""
-╭────────────────────────────────────────────────────────────────────────────────╮
-│                              Iguana Tool Usage                                 │
-├────────────────────────────────────────────────────────────────────────────────┤
-│ Usage:                                                                         │
-│   python iguana.py -m scan --ip [IP range] : Scan specified IP range.          │
-│   python iguana.py -m port-scan --ip [IP address] : Scan open ports on IP.      │
-│   python iguana.py -m sniff --interface [Interface] : Sniff packets on interface.│
-│   python iguana.py -m dns-gather --domain [Domain] : Gather DNS info for domain.│
-│   python iguana.py -h or --help             : Show help message and exit.        │
-╰────────────────────────────────────────────────────────────────────────────────╯
-
+Usage:
+╭────────────────────────────────────────────────────────────────────────────────────╮
+│                              Iguana Tool Usage                                     │
+├────────────────────────────────────────────────────────────────────────────────────┤
+│ Usage:                                                                             │
+│   python iguana.py -m scan --ip [IP range] : Scan specified IP range.              │
+│   python iguana.py -m port-scan --ip [IP address] : Scan open ports on IP.         │
+│   python iguana.py -m sniff --interface [Interface] : Sniff packets on interface.  │
+│   python iguana.py -m dns-gather --domain [Domain] : Gather DNS info for domain.   │
+│   python iguana.py -h or --help             : Show help message and exit.          │
+╰────────────────────────────────────────────────────────────────────────────────────╯
 """)
+
 
 # Function to perform a basic network scan
 def scan_network(ip):
