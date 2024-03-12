@@ -26,12 +26,24 @@ iguana_art = """
 # Function to display help message
 def help_message():
     print("""
+═════════════════════════════════════════════════════════════════════════════════
+                                 Iguana Tool Usage                                 
+═════════════════════════════════════════════════════════════════════════════════
+
 Usage:
-    python iguana.py -m scan --ip [IP range] : Scan a specified IP range. Example: python script.py -m scan --ip 192.168.1.0/24
-    python iguana.py -m port-scan --ip [IP address] : Scan for open ports on a specific IP. Example: python script.py -m port-scan --ip 192.168.1.1
-    python iguana.py -m sniff --interface [Interface] : Sniff packets on a specified interface. Example: python script.py -m sniff --interface eth0
-    python iguana.py -m dns-gather --domain [Domain] : Gather DNS information for a domain. Example: python script.py -m dns-gather --domain example.com
-    python iguana.py -h or --help : Show this help message and exit.
+    python iguana.py -m scan --ip [IP range]       : Scan a specified IP range.
+                                                    Example: python script.py -m scan --ip 192.168.1.0/24
+    python iguana.py -m port-scan --ip [IP address]: Scan for open ports on a specific IP.
+                                                    Example: python script.py -m port-scan --ip 192.168.1.1
+    python iguana.py -m sniff --interface [Interface] : Sniff packets on a specified interface.
+                                                    Example: python script.py -m sniff --interface eth0
+    python iguana.py -m dns-gather --domain [Domain] : Gather DNS information for a domain.
+                                                    Example: python script.py -m dns-gather --domain example.com
+    python iguana.py -h or --help                   : Show this help message and exit.
+
+
+═════════════════════════════════════════════════════════════════════════════════
+
 """)
 
 # Function to perform a basic network scan
