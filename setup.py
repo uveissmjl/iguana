@@ -11,7 +11,7 @@ setup(
     packages=find_packages(),
     entry_points={
         'console_scripts': [
-            'iguana=network_scanner.iguana:main',
+            'iguana=iguana:main',
         ],
     },
     install_requires=[
