@@ -5,17 +5,6 @@ setup(
     version='0.1.0',
     description='A network scanning tool for Kali Linux',
     long_description=open('README.md').read(),
-    long_description_content_type='Iguana is an open-source, Python-based tool designed for network enthusiasts, cybersecurity students, and professionals looking to perform comprehensive network analyses. It integrates a variety of functionalities into one convenient suite, enabling users to inspect and audit networks efficiently. With Iguana, you can perform network scanning to discover active devices, conduct port scanning to identify open ports, capture and analyze network traffic, and gather DNS information for domain reconnaissance.
-
-'This tool is developed with the intention of providing a practical resource for learning about network security and diagnostics. Whether you're troubleshooting a network, auditing the security of a system, or just learning about network protocols and interactions, Iguana offers a user-friendly approach without compromising on depth and utility.
-'Features include:
-
-'Network Scanning: Quickly identify active devices within a network.
-'Port Scanning: Examine devices to find exposed services and potential vulnerabilities.
-'Network Sniffing: Analyze traffic for troubleshooting and educational purposes.
-'DNS Gathering: Collect detailed DNS information to aid in network reconnaissance.
-
-',
     author='Uveis Smajli',
     author_email='smajliuveis@yahoo.com',
     url='https://github.com/uveissmjl/iguana',
