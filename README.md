@@ -112,6 +112,7 @@ Iguana is released under the MIT License. See the LICENSE file for more details.
 ## Acknowledgments
 
 - Thanks to the developers of Scapy and dnspython for providing the libraries that make Iguana possible.
+- A big thanks to [Kit Center](https://kitcenter.net) for their support in connecting with instructors and experts, as well as providing the infrastructure that was essential for the development of this project.
 
 ## Contact
 
