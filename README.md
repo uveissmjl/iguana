@@ -80,11 +80,11 @@ Below are examples of how to use each feature of Iguana:
 
 - **Network Scanning**:
   ```bash
-  ./iguana.py -m scan --ip 192.168.1.0/24
+  sudo ./iguana.py -m scan --ip 192.168.1.0/24
   ```
 - **Port Scanning**:
   ```bash
-  ./iguana.py -m port-scan --ip 192.168.1.1
+  sudo ./iguana.py -m port-scan --ip 192.168.1.1
   ```
 - **Network Sniffing**:
   ```bash
@@ -92,7 +92,7 @@ Below are examples of how to use each feature of Iguana:
   ```
 - **DNS Gathering**:
   ```bash
-  ./iguana.py -m dns-gather --domain example.com
+  sudo ./iguana.py -m dns-gather --domain example.com
   ```
 
 Replace parameters like `192.168.1.0/24`, `192.168.1.1`, `eth0`, and `example.com` with your target information.
