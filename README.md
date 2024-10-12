@@ -1,4 +1,4 @@
-# Iguana: A Network Analysis Suite
+# iguana: A Network Analysis Suite
 
 ```
 ⢀⣤⠴⠖⠋⠉⠓⢦⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
@@ -20,7 +20,7 @@
 
 ## Overview
 
-**Iguana** is an open-source, Python-based tool designed for network enthusiasts, cybersecurity professionals, and students interested in learning and performing comprehensive network analysis. With a set of integrated functionalities, **Iguana** enables users to inspect and audit networks with ease, making it a valuable tool for troubleshooting, diagnostics, and ethical hacking.
+**iguana** is an open-source, Python-based tool designed for network enthusiasts, cybersecurity professionals, and students interested in learning and performing comprehensive network analysis. With a set of integrated functionalities, **iguana** enables users to inspect and audit networks with ease, making it a valuable tool for troubleshooting, diagnostics, and ethical hacking.
 
 The tool is perfect for:
 - **Discovering active devices** on a network.
@@ -28,8 +28,8 @@ The tool is perfect for:
 - **Capturing and analyzing network traffic**.
 - **Gathering DNS information** for reconnaissance.
 
-### Why Iguana?
-Whether you are troubleshooting a network, auditing the security of a system, or learning about network protocols, **Iguana** offers a user-friendly approach without compromising on depth and utility. Iguana is intended for **ethical use** and educational purposes.
+### Why iguana?
+Whether you are troubleshooting a network, auditing the security of a system, or learning about network protocols, **iguana** offers a user-friendly approach without compromising on depth and utility. iguana is intended for **ethical use** and educational purposes.
 
 ---
 
@@ -65,11 +65,11 @@ Whether you are troubleshooting a network, auditing the security of a system, or
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/uveissmjl/Iguana.git
+   git clone https://github.com/uveissmjl/iguana
    ```
 2. Navigate to the cloned directory:
    ```bash
-   cd Iguana
+   cd iguana
    ```
 3. Install the required Python libraries:
    ```bash
@@ -84,7 +84,7 @@ Whether you are troubleshooting a network, auditing the security of a system, or
 
 ## Usage
 
-You can access various features of **Iguana** through command-line options. Below are examples of usage for each feature:
+You can access various features of **iguana** through command-line options. Below are examples of usage for each feature:
 
 ### 1. **Network Scanning**
    Discover active devices on the network by scanning an IP range:
@@ -128,7 +128,7 @@ You can access various features of **Iguana** through command-line options. Belo
 
 This tool is designed for **legal and ethical use**. Users are required to ensure they have proper authorization before scanning or probing networks
 
-. Unauthorized use of this tool may be illegal and could lead to legal consequences. **Iguana** is intended strictly for educational purposes, ethical hacking, and network diagnostics.
+. Unauthorized use of this tool may be illegal and could lead to legal consequences. **iguana** is intended strictly for educational purposes, ethical hacking, and network diagnostics.
 
 ---
 
@@ -150,7 +150,7 @@ Contributions are welcome! If you have ideas for new features or improvements, f
 
 ## License
 
-**Iguana** is released under the MIT License. See the LICENSE file for more details.
+**iguana** is released under the MIT License. See the LICENSE file for more details.
 
 ---
 
