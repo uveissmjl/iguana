@@ -169,7 +169,7 @@ pip install scapy dnspython requests
 
 ## Acknowledgments
 
-A big thanks to [Kit Center*](https://kitcenter.net) for their support in connecting with instructors and experts, as well as providing the infrastructure that was essential for the development of this project.
+A big thanks to [Kit Center](https://kitcenter.net) for their support in connecting with instructors and experts, as well as providing the infrastructure that was essential for the development of this project.
 
 ---
 
