@@ -141,11 +141,6 @@ Contributions are welcome! If you have ideas for new features or improvements, f
 - Provide meaningful commit messages.
 - Test your changes thoroughly before submitting a pull request.
 
-### TODOs for Future Versions:
-- Add SSL/TLS certificate analysis.
-- Implement automated vulnerability assessments.
-- Integrate with more external APIs for network monitoring.
-
 ---
 
 ## License
