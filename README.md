@@ -160,7 +160,8 @@ A big thanks to [Kit Center](https://kitcenter.net) for their support in connect
 
 ## Free Wallpaper for your Desktop
 
-![IguanaWallpaper](https://github.com/user-attachments/assets/517f4570-0adc-40a0-9654-2312816ca725)
+![IguanaWallpaper](https://github.com/user-attachments/assets/2fbc1b6a-f0b1-4fad-a037-b92b4afbbc46)
+
 
 ---
 
